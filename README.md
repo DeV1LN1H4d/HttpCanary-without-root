@@ -22,3 +22,8 @@ Then, install the Wi-Fi certificate Click on Wi-Fi certificate Go to /Internal s
 Your certificate installation is complete
 
 Now install HttpCanary-3.3.6-Premium_Capture_Bug_Fix.apk it will update only Now go to HttpCanary app and check
+
+
+Click here to install HttpCanary-3.3.6_new.apk
+
+Click here to install HttpCanary-3.3.6-Premium_Capture_Bug_Fix.apk
