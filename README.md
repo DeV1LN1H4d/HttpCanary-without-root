@@ -23,7 +23,7 @@ Your certificate installation is complete
 
 Now install HttpCanary-3.3.6-Premium_Capture_Bug_Fix.apk it will update only Now go to HttpCanary app and check
 
+[**Click here to install HttpCanary-3.3.6_new.apk**](https://github.com/DeV1LN1H4d/HttpCanary-without-root/releases/download/HttpCanary/HttpCanary-3.3.6_new.apk)
 
-Click here to install HttpCanary-3.3.6_new.apk
 
 Click here to install HttpCanary-3.3.6-Premium_Capture_Bug_Fix.apk
