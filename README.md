@@ -1,6 +1,8 @@
 # HttpCanary-without-root
 This is just a backup repo for me to install http Canary in Android 12 , i don't need to search the internet for this modded application
 
+# Installing
+
 First, install HttpCanary-3.3.6_new.apk, after installation go inside the app, if you want permission, give permission.
 
 Then go into setting
